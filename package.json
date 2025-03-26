@@ -1,0 +1,29 @@
+{
+  "name": "wbiztool-client",
+  "version": "0.1.0",
+  "description": "Node.js client for WbizTool WhatsApp API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "api",
+    "wbiztool",
+    "messaging"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "form-data": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Binaryscript-Apps/wbiztool-client-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Binaryscript-Apps/wbiztool-client-node/issues"
+  },
+  "homepage": "https://wbiztool.com"
+}
