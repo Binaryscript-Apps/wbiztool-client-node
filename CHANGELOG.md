@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased (proposed 0.2.0)
+## 0.2.0 (2026-10-18)
 
 ### Fixed
 - `scheduleMessage()` works: it sent `schedule_time`, which the API doesn't read, so every call was refused.
