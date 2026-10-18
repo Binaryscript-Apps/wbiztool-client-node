@@ -4,7 +4,7 @@
   "description": "Node.js client for WbizTool WhatsApp API",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test test/*.test.js"
   },
   "keywords": [
     "whatsapp",
@@ -25,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/Binaryscript-Apps/wbiztool-client-node/issues"
   },
-  "homepage": "https://wbiztool.com"
+  "homepage": "https://wbiztool.com",
+  "files": [
+    "src",
+    "README.md",
+    "CHANGELOG.md"
+  ]
 }

@@ -1,5 +1,6 @@
-const { WbizToolClient } = require('./client');
+const { WbizToolClient, WbizToolError } = require('./client');
 
 module.exports = {
-  WbizToolClient
+  WbizToolClient,
+  WbizToolError
 };
